@@ -28,4 +28,4 @@ if __name__ =="__main__":
             print(f'o resultado da subtracoa:{resultado1}')
             print()
         elif opcao == 3:
-            print("OBRIGADO POR USAR A NOSSA  CALCULADORA: ")
+            print("OBRIGADO POR USAR A NOSSA  CALCULADORA: ")         
